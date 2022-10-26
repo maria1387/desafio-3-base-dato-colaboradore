@@ -1,0 +1,68 @@
+
+.App{
+margin-top: 150px;
+width: 100%;
+	text-align: center;
+
+
+}
+input{
+  height: 28px;
+  width: 300px;
+border-radius: 23px;
+border: 2px solid blue;
+text-align: center;
+}
+.lista{
+border: 2px solid blue;
+width: 900px;
+margin-bottom: 23px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 25px;
+
+}
+ul{
+  text-align: center;
+}
+.container-lista{
+display: flex;
+justify-content: center;
+padding: 30px;
+}
+.container-button{
+  display: flex;
+justify-content: center;
+
+
+}
+.button{
+  margin-right: 24px;
+ 
+ margin-bottom: 23px;
+ background-color: blue;
+ justify-content: center;
+ 
+
+}
+button {
+  margin-top: 20px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+color: #fff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  background: #53aaf2;
+}
+.buttonEliminar{
+margin-left: 20px;
+margin-right: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
